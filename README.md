@@ -1,4 +1,4 @@
 # coingrig-go-wallet
-Go 👻 Crypto Wallet Generator
+Cross-platform 👻 Crypto Wallet Generator in Go
 
 Readme in progress...
